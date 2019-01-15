@@ -1,2 +1,4 @@
 #ignore emacs temporary files
 *~
+
+.python-version
