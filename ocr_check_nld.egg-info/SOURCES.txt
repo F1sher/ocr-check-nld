@@ -1,0 +1,9 @@
+README.rst
+ocr_check_nld/__init__.py
+ocr_check_nld/ocr_check_nld.py
+ocr_check_nld/ocr_check_nld.py~
+ocr_check_nld.egg-info/PKG-INFO
+ocr_check_nld.egg-info/SOURCES.txt
+ocr_check_nld.egg-info/dependency_links.txt
+ocr_check_nld.egg-info/requires.txt
+ocr_check_nld.egg-info/top_level.txt
