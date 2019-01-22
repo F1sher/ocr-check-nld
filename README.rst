@@ -15,6 +15,6 @@ How to install ocr-check?
    ``pip install ocr_check_nld-0.1.0-py3-none-any.whl``
 
 6) | Now you can use it in Terminal like this:
-     ``ocr-check path_to_check_file check_lang``
+     ``ocr-check CheckFilePath CheckLang``
    | For example:
      ``ocr-check ../check_1.jpg eng``
