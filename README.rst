@@ -1,7 +1,7 @@
 How to install ocr-check?
 ==========
 
-1) In first you need to install ``pip`` throught Terminal:
+1) | In first you need to install ``pip`` throught Terminal:
    | - download get-pip.py: ``curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py``
    | - install it: ``python get-pip.py``
 
