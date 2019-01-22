@@ -1,10 +1,9 @@
 How to install ocr-check?
 ==========
 
-1) In first you need ``pip`` thorought Terminal:
-   - download get-pip.py
-     ``curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py``
-   - ``python get-pip.py``
+1) In first you need to install ``pip`` throught Terminal:
+   | - download get-pip.py: ``curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py``
+   | - install it: ``python get-pip.py``
 
 2) cd to the directory where source code of ocr-check will be downloaded
 
@@ -17,5 +16,5 @@ How to install ocr-check?
 
 6) Now you can use it in Terminal like this:
    ``ocr-check path_to_check_file check_lang``
-   For example:
-   ``ocr-check ../check_1.jpg eng``
+   | For example:
+     ``ocr-check ../check_1.jpg eng``
