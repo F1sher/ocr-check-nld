@@ -9,12 +9,12 @@ How to install ocr-check?
 
 3) Clone this repo: ``git clone https://github.com/F1sher/ocr-check-nld.git``
 
-4) cd to dist direcotory: ``cd ocr-check-nld/dist``
+4) cd to dist directory: ``cd ocr-check-nld/dist``
 
 5) Install ocr-check wheel with pip:
    ``pip install ocr_check_nld-0.1.0-py3-none-any.whl``
 
-6) Now you can use it in Terminal like this:
-   ``ocr-check path_to_check_file check_lang``
+6) | Now you can use it in Terminal like this:
+     ``ocr-check path_to_check_file check_lang``
    | For example:
      ``ocr-check ../check_1.jpg eng``
